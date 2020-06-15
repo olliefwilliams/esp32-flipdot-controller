@@ -6,10 +6,10 @@
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 #include "rom/uart.h"
-#include "flipdot.h"
-#include "snake.h"
-#include "fill.h"
-#include "text.h"
+#include "include/flipdot.h"
+#include "include/snake.h"
+#include "include/fill.h"
+#include "include/text.h"
 
 static const char* TAG = "Snake";
 

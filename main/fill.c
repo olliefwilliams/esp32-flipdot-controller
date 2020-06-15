@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include "flipdot.h"
+#include "include/flipdot.h"
 
 /**
  * Set the entire dotboard.

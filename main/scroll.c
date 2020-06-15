@@ -4,11 +4,11 @@
 #include <string.h>
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
-#include "flipdot.h"
-#include "text.h"
-#include "fill.h"
+#include "include/flipdot.h"
+#include "include/text.h"
+#include "include/fill.h"
 
-static const char text[] = "Flipdot Controller Mk.2 - DAMOW.NET";
+static const char text[] = "NOW WITH CMAKE";
 
 static dotboard_t dots;
 static int x = DOT_COLUMNS;

@@ -9,7 +9,7 @@
 #include "freertos/task.h"
 #include "freertos/semphr.h"
 #include "driver/gpio.h"
-#include "flipdot.h"
+#include "include/flipdot.h"
 
 static const char* TAG = "FD";
 

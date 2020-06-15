@@ -7,11 +7,11 @@
 #include "xtensa/core-macros.h"
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
-#include "flipdot.h"
-#include "fill.h"
-#include "main.h"
-#include "scroll.h"
-#include "snake.h"
+#include "include/flipdot.h"
+#include "include/fill.h"
+#include "include/main.h"
+#include "include/scroll.h"
+#include "include/snake.h"
 
 static const char* TAG = "Main";
 

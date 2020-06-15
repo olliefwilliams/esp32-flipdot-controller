@@ -1,8 +1,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include "esp_log.h"
-#include "fonts/font_4x5.h"
-#include "flipdot.h"
+#include "include/fonts/font_4x5.h"
+#include "include/flipdot.h"
 
 /**
  * Render a text string to the dotboard using the 4x5 font.
